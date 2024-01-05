@@ -1,5 +1,5 @@
 # NOI 2
-## Viruses(https://arena.olimpiici.com/#/catalog/175/problem/100416)
+## Viruses (https://arena.olimpiici.com/#/catalog/175/problem/100416)
 
 ## Subsums(https://arena.olimpiici.com/#/catalog/199/problem/10047)
 
